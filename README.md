@@ -1,4 +1,4 @@
-# LinkendIn Clone Using React.Js library
+# LinkendIn Frontend Clone Using React.Js library
 
 Still working on it
 
